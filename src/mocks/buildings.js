@@ -1,0 +1,23 @@
+module.exports=[
+        { id: 1, address: '914 Onsgard Way', boilersId: [46, 21, 26, 49, 31, 31, 48, 35, 34, 35], fullName: 'Brekke, Bernhard and Treutel', phone: '858-774-5067' },
+        { id: 2, address: '2372 Memorial Road', boilersId: [29, 12, 13, 8, 11, 21, 28, 18, 28, 50], fullName: 'Stokes LLC', phone: '856-713-6211' },
+        { id: 3, address: '2336 Drewry Crossing', boilersId: [10, 50, 28, 16, 16, 21, 3, 38, 48, 36], fullName: 'Gottlieb, Lebsack and Weber', phone: '984-951-5662' },
+        { id: 4, address: '5258 Linden Avenue', boilersId: [49, 37, 25, 49, 37, 27, 12, 48, 34, 39], fullName: 'Berge Inc', phone: '588-373-6587' },
+        { id: 5, address: '9 Namekagon Plaza', boilersId: [4, 38, 25, 19, 21, 28, 40, 28, 25, 39], fullName: 'Kemmer Group', phone: '654-224-4171' },
+        { id: 6, address: '7 Dayton Drive', boilersId: [34, 4, 21, 33, 44, 40, 29, 2, 31, 4], fullName: 'Hayes-Bergnaum', phone: '448-873-0269' },
+        { id: 7, address: '27 Welch Junction', boilersId: [5, 43, 17, 24, 30, 4, 7, 33, 19, 37], fullName: 'Reichel-Reichert', phone: '722-297-9258' },
+        { id: 8, address: '12 Bayside Center', boilersId: [14, 34, 22, 28, 6, 8, 25, 50, 41, 7], fullName: 'Donnelly-Muller', phone: '749-354-6994' },
+        { id: 9, address: '2375 Talmadge Parkway', boilersId: [16, 41, 27, 33, 2, 11, 50, 41, 48, 10], fullName: 'Halvorson, Volkman and Muller', phone: '413-590-8308' },
+        { id: 10, address: '799 Talmadge Court', boilersId: [8, 9, 29, 8, 49, 36, 48, 41, 11, 26], fullName: 'Collier-Smith', phone: '391-435-5676' },
+        { id: 11, address: '2813 Sachs Junction', boilersId: [49, 33, 11, 35, 17, 8, 11, 12, 10, 26], fullName: 'Hane-Wintheiser', phone: '117-285-8876' },
+        { id: 12, address: '8026 Anzinger Alley', boilersId: [4, 26, 6, 11, 15, 5, 38, 38, 23, 8], fullName: 'Stiedemann-Kuhn', phone: '898-527-1773' },
+        { id: 13, address: '06 Continental Drive', boilersId: [1, 10, 34, 26, 16, 21, 3, 3, 26, 4], fullName: 'Cronin Group', phone: '253-785-4544' },
+        { id: 14, address: '34 Hagan Circle', boilersId: [26, 34, 16, 14, 13, 37, 28, 41, 3, 6], fullName: 'Aufderhar-Stark', phone: '369-115-2277' },
+        { id: 15, address: '996 Hooker Parkway', boilersId: [2, 35, 41, 27, 23, 7, 20, 2, 17, 6], fullName: 'Orn LLC', phone: '709-322-4055' },
+        { id: 16, address: '3 Lawn Center', boilersId: [10, 46, 1, 41, 32, 24, 8, 45, 10, 33], fullName: 'Schroeder Inc', phone: '601-878-9067' },
+        { id: 17, address: '40992 Lien Crossing', boilersId: [33, 21, 21, 18, 24, 30, 9, 50, 36, 14], fullName: 'Willms, Casper and Little', phone: '342-246-0778' },
+        { id: 18, address: '4347 Red Cloud Junction', boilersId: [34, 22, 7, 50, 21, 23, 8, 20, 29, 23], fullName: 'Koelpin, Nicolas and Ritchie', phone: '544-219-0528' },
+        { id: 19, address: '75526 Hooker Pass', boilersId: [48, 46, 20, 26, 44, 39, 13, 39, 43, 33], fullName: 'Hyatt-Streich', phone: '399-975-5897' },
+        { id: 20, address: '0965 Lakeland Drive', boilersId: [13, 27, 7, 49, 6, 45, 6, 33, 11, 47], fullName: 'Leannon, Bode and Pacocha', phone: '977-731-6445' },
+        { id: 21, address: '87 Debs Street', boilersId: [35, 10, 20, 22, 41, 12, 46, 5, 15, 19], fullName: 'Sawayn, Lubowitz and Parker', phone: '980-560-1481' }
+]

@@ -6,7 +6,7 @@ function Header(){
     return(
         <header style={headerStyle}>
             <h1>
-                TodoList
+                CALDAR
             </h1>
             <Link style={headerStyle} to="/">Home</Link>|<Link style={headerStyle} to="/about">About</Link>
         </header>
